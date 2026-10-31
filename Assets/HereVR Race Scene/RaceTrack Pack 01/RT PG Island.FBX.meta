@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: 5bcfb1042fabca848a101fa345f6bd8e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: RT PG DOOR
+    100002: RT PG Fence A HI
+    100004: RT PG Fence B HI
+    100006: RT PG Fence Shared A
+    100008: RT PG Fence Shared B
+    100010: //RootNode
+    400000: RT PG DOOR
+    400002: RT PG Fence A HI
+    400004: RT PG Fence B HI
+    400006: RT PG Fence Shared A
+    400008: RT PG Fence Shared B
+    400010: //RootNode
+    2300000: RT PG DOOR
+    2300002: RT PG Fence A HI
+    2300004: RT PG Fence B HI
+    2300006: RT PG Fence Shared A
+    2300008: RT PG Fence Shared B
+    2300010: //RootNode
+    3300000: RT PG DOOR
+    3300002: RT PG Fence A HI
+    3300004: RT PG Fence B HI
+    3300006: RT PG Fence Shared A
+    3300008: RT PG Fence Shared B
+    3300010: //RootNode
+    4300000: RT PG Island
+    4300002: RT PG Island Door
+    4300004: RT PG Island Fence HI B
+    4300006: RT PG Island Fence Shared B
+    4300008: RT PG Island Fence HI A
+    4300010: RT PG Island Fence Shared A
+    4300012: RT PG DOOR
+    4300014: RT PG Fence Shared B
+    4300016: RT PG Fence A HI
+    4300018: RT PG Fence Shared A
+    4300020: RT PG Fence B HI
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

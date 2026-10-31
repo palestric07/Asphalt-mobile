@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 0d110029e96edbd408951b3b442cc67e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: RT Humans4MainB V01 LOW
+    100002: RT MainB AD V01
+    100004: RT MainB Garage Doors
+    100006: RT MainB Garages V01
+    100008: RT MainB Plant Mobile V01 DS
+    100010: RT MainB Plant Mobile V01 S
+    100012: //RootNode
+    100014: RT ManB V01 Lamps
+    400000: RT Humans4MainB V01 LOW
+    400002: RT MainB AD V01
+    400004: RT MainB Garage Doors
+    400006: RT MainB Garages V01
+    400008: RT MainB Plant Mobile V01 DS
+    400010: RT MainB Plant Mobile V01 S
+    400012: //RootNode
+    400014: RT ManB V01 Lamps
+    2300000: RT Humans4MainB V01 LOW
+    2300002: RT MainB AD V01
+    2300004: RT MainB Garage Doors
+    2300006: RT MainB Garages V01
+    2300008: RT MainB Plant Mobile V01 DS
+    2300010: RT MainB Plant Mobile V01 S
+    2300012: //RootNode
+    2300014: RT ManB V01 Lamps
+    3300000: RT Humans4MainB V01 LOW
+    3300002: RT MainB AD V01
+    3300004: RT MainB Garage Doors
+    3300006: RT MainB Garages V01
+    3300008: RT MainB Plant Mobile V01 DS
+    3300010: RT MainB Plant Mobile V01 S
+    3300012: //RootNode
+    3300014: RT ManB V01 Lamps
+    4300000: RT ManB V01 Lamps
+    4300002: trrlong s 01.004
+    4300004: trrlong s 01.003
+    4300006: trrlong s 01.002
+    4300008: trrlong s 01.001
+    4300010: RT MainB V01
+    4300012: RT Humans4MainB V01 LOW
+    4300014: RT MainB AD V01
+    4300016: RT MainB Plant Mobile V01 S
+    4300018: RT MainB Plant Mobile V01 DS
+    4300020: RT MainB Garages V01
+    4300022: RT MainB Garage Doors
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: b90c312ba82243a42b6e9a247b16f72f
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Plane.1914
+    100002: RT LINE V01 T01
+    100004: RT LINE V01 T01 COLL I
+    100006: RT LINE V01 T01 COLL II
+    100008: RT LINE V01 T01 Fence HI I
+    100010: RT LINE V01 T01 Fence HI II
+    100012: RT LINE V01 T01 Fence Shared I
+    100014: RT LINE V01 T01 Fence Shared II
+    100016: RT LINE V01 T01 KERB I
+    100018: RT LINE V01 T01 KERB II
+    100020: RT LINE V01 T01 KERB III
+    100022: RT LINE V01 T01 KERB IV
+    100024: RT LINE V01 T01 NoGrass
+    100026: RT LINE V01 T01 Rail 2B
+    100028: RT LINE V01 T01 Rail IA
+    100030: RT LINE V01 T01 Rail IB
+    100032: RT LINE V01 T01 Rail IIA
+    100034: RT LINE V01 T01 RubW I
+    100036: RT LINE V01 T01 RubW II
+    100038: //RootNode
+    100040: RT LINE V01 T01 SNAP
+    100042: RT LINE V01 T01 SR I
+    100044: RT LINE V01 T01 SR II
+    100046: RT LINE V01 T01 NAV Grass
+    100048: RT LINE V01 T01 NAV Grass.Conc
+    100050: RT LINE V01 T01 NAV Road
+    400000: Plane.1914
+    400002: RT LINE V01 T01
+    400004: RT LINE V01 T01 COLL I
+    400006: RT LINE V01 T01 COLL II
+    400008: RT LINE V01 T01 Fence HI I
+    400010: RT LINE V01 T01 Fence HI II
+    400012: RT LINE V01 T01 Fence Shared I
+    400014: RT LINE V01 T01 Fence Shared II
+    400016: RT LINE V01 T01 KERB I
+    400018: RT LINE V01 T01 KERB II
+    400020: RT LINE V01 T01 KERB III
+    400022: RT LINE V01 T01 KERB IV
+    400024: RT LINE V01 T01 NoGrass
+    400026: RT LINE V01 T01 Rail 2B
+    400028: RT LINE V01 T01 Rail IA
+    400030: RT LINE V01 T01 Rail IB
+    400032: RT LINE V01 T01 Rail IIA
+    400034: RT LINE V01 T01 RubW I
+    400036: RT LINE V01 T01 RubW II
+    400038: RT LINE V01 T01 SNAP
+    400040: //RootNode
+    400042: RT LINE V01 T01 SR I
+    400044: RT LINE V01 T01 SR II
+    400046: RT LINE V01 T01 NAV Grass
+    400048: RT LINE V01 T01 NAV Grass.Conc
+    400050: RT LINE V01 T01 NAV Road
+    2300000: Plane.1914
+    2300002: RT LINE V01 T01
+    2300004: RT LINE V01 T01 COLL I
+    2300006: RT LINE V01 T01 COLL II
+    2300008: RT LINE V01 T01 Fence HI I
+    2300010: RT LINE V01 T01 Fence HI II
+    2300012: RT LINE V01 T01 Fence Shared I
+    2300014: RT LINE V01 T01 Fence Shared II
+    2300016: RT LINE V01 T01 KERB I
+    2300018: RT LINE V01 T01 KERB II
+    2300020: RT LINE V01 T01 KERB III
+    2300022: RT LINE V01 T01 KERB IV
+    2300024: RT LINE V01 T01 NoGrass
+    2300026: RT LINE V01 T01 Rail 2B
+    2300028: RT LINE V01 T01 Rail IA
+    2300030: RT LINE V01 T01 Rail IB
+    2300032: RT LINE V01 T01 Rail IIA
+    2300034: RT LINE V01 T01 RubW I
+    2300036: RT LINE V01 T01 RubW II
+    2300038: RT LINE V01 T01 SNAP
+    2300040: RT LINE V01 T01 SR I
+    2300042: RT LINE V01 T01 SR II
+    2300044: RT LINE V01 T01 NAV Grass
+    2300046: RT LINE V01 T01 NAV Grass.Conc
+    2300048: RT LINE V01 T01 NAV Road
+    2300050: //RootNode
+    3300000: Plane.1914
+    3300002: RT LINE V01 T01
+    3300004: RT LINE V01 T01 COLL I
+    3300006: RT LINE V01 T01 COLL II
+    3300008: RT LINE V01 T01 Fence HI I
+    3300010: RT LINE V01 T01 Fence HI II
+    3300012: RT LINE V01 T01 Fence Shared I
+    3300014: RT LINE V01 T01 Fence Shared II
+    3300016: RT LINE V01 T01 KERB I
+    3300018: RT LINE V01 T01 KERB II
+    3300020: RT LINE V01 T01 KERB III
+    3300022: RT LINE V01 T01 KERB IV
+    3300024: RT LINE V01 T01 NoGrass
+    3300026: RT LINE V01 T01 Rail 2B
+    3300028: RT LINE V01 T01 Rail IA
+    3300030: RT LINE V01 T01 Rail IB
+    3300032: RT LINE V01 T01 Rail IIA
+    3300034: RT LINE V01 T01 RubW I
+    3300036: RT LINE V01 T01 RubW II
+    3300038: RT LINE V01 T01 SNAP
+    3300040: RT LINE V01 T01 SR I
+    3300042: RT LINE V01 T01 SR II
+    3300044: RT LINE V01 T01 NAV Grass
+    3300046: RT LINE V01 T01 NAV Grass.Conc
+    3300048: RT LINE V01 T01 NAV Road
+    3300050: //RootNode
+    4300000: RT LINE V01 T01
+    4300002: RT LINE V01 T01 COLL I
+    4300004: RT LINE V01 T01 Fence Shared II
+    4300006: RT LINE V01 T01 RubW II
+    4300008: RT LINE V01 T01 RubW I
+    4300010: RT LINE V01 T01 COLL II
+    4300012: RT LINE V01 T01 Fence Shared I
+    4300014: RT LINE V01 T01 Fence HI I
+    4300016: RT LINE V01 T01 Fence HI II
+    4300018: RT LINE V01 T01 Rail 2B
+    4300020: RT LINE V01 T01 Rail IIA
+    4300022: RT LINE V01 T01 Rail IB
+    4300024: RT LINE V01 T01 SR I
+    4300026: RT LINE V01 T01 SR II
+    4300028: RT LINE V01 T01 Rail IA
+    4300030: RT LINE V01 T01 SNAP
+    4300032: RT LINE V01 T01 NoGrass
+    4300034: Plane.1920
+    4300036: RT LINE V01 T01 KERB I
+    4300038: RT LINE V01 T01 KERB II
+    4300040: RT LINE V01 T01 KERB III
+    4300042: RT LINE V01 T01 KERB IV
+    4300044: Plane.1914
+    4300046: RT LINE V01 T01 NAV Road
+    4300048: RT LINE V01 T01 NAV Grass
+    4300050: RT LINE V01 T01 NAV Grass.Conc
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

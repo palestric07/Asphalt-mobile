@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: b0e420d31d7a8ff4487ad2a9c4848196
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: RT LU 90S T01 Track C01 SNAP
+    4300002: RT LU 90S HI T01 Track C01
+    4300004: RT LU 90S LOW T01 Track C01
+    4300006: RT LU 90S T01 Fence Shared
+    4300008: RT LU 90S HI T01 Kerb C01
+    4300010: RT LU 90S LOW T01 Kerb C01
+    4300012: RT LU 90S HI T01 Rail Out C01
+    4300014: RT LU 90S LOW T01 Rail Out C01
+    4300016: RT LU 90S HI T01 ServRoad
+    4300018: RT LU 90S LOW T01 ServRoad
+    4300020: RT LU 90S HI T01 RubWall C01
+    4300022: RT LU 90S LOW T01 RubWall C01
+    4300024: RT LU 90S HI T01 Track NoGrass C01
+    4300026: RT LU 90S LOW T01 Track NoGrass C01
+    4300028: RT LU 90S HI T01 Rail In
+    4300030: RT LU 90S LOW T01 Rail In
+    4300032: RT LU 90S HI T01 Fence C01
+    4300034: RT LU 90S HI T01 TrackTXT C01
+    4300036: RT HD Lin HI T01 Track Snap C01
+    4300038: RT HD Lin HI T01 Fence Shared C01
+    4300040: RT HD Lin HI T01 Track C01
+    4300042: RT HD Lin HI T01 ServRoad01 C01
+    4300044: RT HD Lin HI T01 ServRoad03 C01
+    4300046: RT HD Lin HI T01 RubWall01 C01
+    4300048: RT HD Lin HI T01 Rail In C01
+    4300050: RT HD Lin HI T01 Rail Out C01
+    4300052: RT HD Lin HI T01 Fence  C01
+    4300054: RT HD Lin HI T01 Kerb C01
+    4300056: RT Ambulance V01 C01
+    4300058: RT HD Lin HI T01 RubWall04 C01
+    4300060: RT HD Lin HI T01 RubWall03 C01
+    4300062: BezierCircle_251
+    4300064: BezierCircle_250
+    4300066: BezierCircle_249
+    4300068: Plane_423
+    4300070: Plane_422
+    4300072: BezierCircle_248
+    4300074: BezierCircle_247
+    4300076: BezierCircle_246
+    4300078: RT HD Lin HI T01 RubWall02 C01
+    4300080: RT HD Lin HI T01 RubWall05 C01
+    4300082: RT Track Ambulance Ground
+    4300084: BezierCircle_222
+    4300086: RT AD V01 C01
+    4300088: RT AD V01 C02
+    4300090: RT AD V02 C02
+    4300092: RT AD V02 C01
+    4300094: RT Trib V01 T01 HI C01
+    4300096: RT Trib V01 T01 LOW C01
+    4300098: RT Trib V01 T02 HI C011
+    4300100: RT Trib V01 T02 LOW C011
+    4300102: RT Trib V01 T03 HI C01
+    4300104: RT Trib V01 T03 LOW C01
+    4300106: RT Trib V01 T04 HI C01
+    4300108: RT Trib V01 T04 LOW C01
+    4300110: RT Trib V01 T02 HI C01
+    4300112: RT Trib V01 T02 LOW C01
+    4300114: Cube.060
+    4300116: aaaaaaaaa.003
+    4300118: RT Humans4Trib V01 T04
+    4300120: RT Humans4Trib V01 T03
+    4300122: RT Humans4Trib V01 T02
+    4300124: RT Humans4Trib V01 T01
+    4300126: RT Humans4Grand V01
+    4300128: RT Humans4Grand V01
+    4300130: RT Humans4Grand V01 LOW
+    4300132: RT Humans4Trib V01 T02 LOW
+    4300134: RT Humans4Trib V01 T01 LOW
+    4300136: RT Humans4Trib V01 T04 LOW
+    4300138: RT ParkIs V01 HI
+    4300140: RT ParkIs V01 LOW
+    4300142: RT ParkIs Lines V01
+    4300144: RT ParkIs SideW V01
+    4300146: RT ParkIs V02 HI
+    4300148: RT ParkIs Lines V02
+    4300150: RT ParkIs V02 LOW
+    4300152: Box001
+    4300154: RT ParkIs V03
+    4300156: RT ParkIs Lines V03
+    4300158: RT ParkIs Lines V04 HI
+    4300160: RT ParkIs Lines V04 LOW
+    4300162: RT ParkIs Lines V04
+    4300164: RT ParkIs SideW V02
+    4300166: RT PlantMOB for PI V04 DS
+    4300168: RT PlantMOB for PI V05 DS
+    4300170: RT ParkIs V05 HI
+    4300172: RT ParkIs V05 LOW
+    4300174: RT ParkIs Lines V05
+    4300176: RT PlantMOB for PI V01 DS
+    4300178: RT PlantMOB for PI V05
+    4300180: RT PlantMOB for PI V01
+    4300182: RT PlantMOB for PI V04
+    4300184: Plane.034
+    4300186: Plane.033
+    4300188: Plane.032
+    4300190: Plane.031
+    4300192: RT PlantMOB V03
+    4300194: RT PlantMOB V02
+    4300196: RT PlantMOB V01
+    4300198: RT PlantMOB V04
+    4300200: RT PlantMOB V06 DS
+    4300202: RT PlantMOB V08 DS
+    4300204: RT PlantMOB V07 DS
+    4300206: RT PlantMOB V05 DS
+    4300208: RT PlantMOB V04 DS
+    4300210: RT PlantMOB V01 DS
+    4300212: RT PlantMOB V02 DS
+    4300214: RT PlantMOB V03 DS
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

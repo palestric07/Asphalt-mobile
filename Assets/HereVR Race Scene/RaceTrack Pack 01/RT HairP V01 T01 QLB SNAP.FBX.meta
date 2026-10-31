@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 2f00d170b432b444db4a549bafddaf2c
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: RT HairP V01 COLL IN
+    100002: RT HairP V01 COLL OUT
+    100004: RT HairP V01 Fence IN HI
+    100006: RT HairP V01 Fence OUT HI
+    100008: RT HairP V01 Fence Shared IN
+    100010: RT HairP V01 Fence Shared OUT
+    100012: RT HairP V01 KERB IN HI
+    100014: RT HairP V01 KERB IN LOW
+    100016: RT HairP V01 KERB OUT HI
+    100018: RT HairP V01 KERB OUT LOW
+    100020: RT HairP V01 Rail 1A HI
+    100022: RT HairP V01 Rail 1A LOW
+    100024: RT HairP V01 Rail 1B HI
+    100026: RT HairP V01 Rail 1B LOW
+    100028: RT HairP V01 Rail 2A HI
+    100030: RT HairP V01 Rail 2B HI
+    100032: RT HairP V01 RubW  IN HI
+    100034: RT HairP V01 RubW  IN LOW
+    100036: RT HairP V01 RubW OUT HI
+    100038: RT HairP V01 RubW OUT LOW
+    100040: RT HairP V01 SR OUT HI
+    100042: RT HairP V01 SR OUT LOW
+    100044: RT HairP V01 T01 HI
+    100046: RT HairP V01 T01 LOW
+    100048: //RootNode
+    100050: x color 2
+    100052: x color I
+    100054: x grass
+    100056: x grass.001
+    100058: x kavics 1
+    100060: x kavics 2
+    100062: x nav beton
+    100064: x nav road
+    100066: RT HairP V01 T01 NoGrass HI
+    100068: RT HairP V01 T01 NoGrass LOW
+    100070: RT HairP V01 T01 NoGrass LOWII
+    100072: RT HairP V01 NAV ColAsp C01-02
+    100074: RT HairP V01 NAV ColAsp C03
+    100076: RT HairP V01 NAV Conc
+    100078: RT HairP V01 NAV Grass
+    100080: RT HairP V01 NAV Gravel C01-02
+    100082: RT HairP V01 NAV Gravel C03
+    100084: RT HairP V01 NAV Road
+    100086: RT HairP V01 NAV Grass IN
+    100088: RT HairP V01 NAV Grass OUT
+    100090: RT HairP V01 SR
+    400000: RT HairP V01 COLL IN
+    400002: RT HairP V01 COLL OUT
+    400004: RT HairP V01 Fence IN HI
+    400006: RT HairP V01 Fence OUT HI
+    400008: RT HairP V01 Fence Shared IN
+    400010: RT HairP V01 Fence Shared OUT
+    400012: RT HairP V01 KERB IN HI
+    400014: RT HairP V01 KERB IN LOW
+    400016: RT HairP V01 KERB OUT HI
+    400018: RT HairP V01 KERB OUT LOW
+    400020: RT HairP V01 Rail 1A HI
+    400022: RT HairP V01 Rail 1A LOW
+    400024: RT HairP V01 Rail 1B HI
+    400026: RT HairP V01 Rail 1B LOW
+    400028: RT HairP V01 Rail 2A HI
+    400030: RT HairP V01 Rail 2B HI
+    400032: RT HairP V01 RubW  IN HI
+    400034: RT HairP V01 RubW  IN LOW
+    400036: RT HairP V01 RubW OUT HI
+    400038: RT HairP V01 RubW OUT LOW
+    400040: RT HairP V01 SR OUT HI
+    400042: RT HairP V01 SR OUT LOW
+    400044: RT HairP V01 T01 HI
+    400046: RT HairP V01 T01 LOW
+    400048: //RootNode
+    400050: x color 2
+    400052: x color I
+    400054: x grass
+    400056: x grass.001
+    400058: x kavics 1
+    400060: x kavics 2
+    400062: x nav beton
+    400064: x nav road
+    400066: RT HairP V01 T01 NoGrass HI
+    400068: RT HairP V01 T01 NoGrass LOW
+    400070: RT HairP V01 T01 NoGrass LOWII
+    400072: RT HairP V01 NAV ColAsp C01-02
+    400074: RT HairP V01 NAV ColAsp C03
+    400076: RT HairP V01 NAV Conc
+    400078: RT HairP V01 NAV Grass
+    400080: RT HairP V01 NAV Gravel C01-02
+    400082: RT HairP V01 NAV Gravel C03
+    400084: RT HairP V01 NAV Road
+    400086: RT HairP V01 NAV Grass IN
+    400088: RT HairP V01 NAV Grass OUT
+    400090: RT HairP V01 SR
+    2300000: RT HairP V01 COLL IN
+    2300002: RT HairP V01 COLL OUT
+    2300004: RT HairP V01 Fence IN HI
+    2300006: RT HairP V01 Fence OUT HI
+    2300008: RT HairP V01 Fence Shared IN
+    2300010: RT HairP V01 Fence Shared OUT
+    2300012: RT HairP V01 KERB IN HI
+    2300014: RT HairP V01 KERB IN LOW
+    2300016: RT HairP V01 KERB OUT HI
+    2300018: RT HairP V01 KERB OUT LOW
+    2300020: RT HairP V01 Rail 1A HI
+    2300022: RT HairP V01 Rail 1A LOW
+    2300024: RT HairP V01 Rail 1B HI
+    2300026: RT HairP V01 Rail 1B LOW
+    2300028: RT HairP V01 Rail 2A HI
+    2300030: RT HairP V01 Rail 2B HI
+    2300032: RT HairP V01 RubW  IN HI
+    2300034: RT HairP V01 RubW  IN LOW
+    2300036: RT HairP V01 RubW OUT HI
+    2300038: RT HairP V01 RubW OUT LOW
+    2300040: RT HairP V01 SR OUT HI
+    2300042: RT HairP V01 SR OUT LOW
+    2300044: RT HairP V01 T01 HI
+    2300046: RT HairP V01 T01 LOW
+    2300048: //RootNode
+    2300050: x color 2
+    2300052: x color I
+    2300054: x grass
+    2300056: x grass.001
+    2300058: x kavics 1
+    2300060: x kavics 2
+    2300062: x nav beton
+    2300064: x nav road
+    2300066: RT HairP V01 T01 NoGrass HI
+    2300068: RT HairP V01 T01 NoGrass LOW
+    2300070: RT HairP V01 T01 NoGrass LOWII
+    2300072: RT HairP V01 NAV ColAsp C01-02
+    2300074: RT HairP V01 NAV ColAsp C03
+    2300076: RT HairP V01 NAV Conc
+    2300078: RT HairP V01 NAV Grass
+    2300080: RT HairP V01 NAV Gravel C01-02
+    2300082: RT HairP V01 NAV Gravel C03
+    2300084: RT HairP V01 NAV Road
+    2300086: RT HairP V01 NAV Grass IN
+    2300088: RT HairP V01 NAV Grass OUT
+    2300090: RT HairP V01 SR
+    3300000: RT HairP V01 COLL IN
+    3300002: RT HairP V01 COLL OUT
+    3300004: RT HairP V01 Fence IN HI
+    3300006: RT HairP V01 Fence OUT HI
+    3300008: RT HairP V01 Fence Shared IN
+    3300010: RT HairP V01 Fence Shared OUT
+    3300012: RT HairP V01 KERB IN HI
+    3300014: RT HairP V01 KERB IN LOW
+    3300016: RT HairP V01 KERB OUT HI
+    3300018: RT HairP V01 KERB OUT LOW
+    3300020: RT HairP V01 Rail 1A HI
+    3300022: RT HairP V01 Rail 1A LOW
+    3300024: RT HairP V01 Rail 1B HI
+    3300026: RT HairP V01 Rail 1B LOW
+    3300028: RT HairP V01 Rail 2A HI
+    3300030: RT HairP V01 Rail 2B HI
+    3300032: RT HairP V01 RubW  IN HI
+    3300034: RT HairP V01 RubW  IN LOW
+    3300036: RT HairP V01 RubW OUT HI
+    3300038: RT HairP V01 RubW OUT LOW
+    3300040: RT HairP V01 SR OUT HI
+    3300042: RT HairP V01 SR OUT LOW
+    3300044: RT HairP V01 T01 HI
+    3300046: RT HairP V01 T01 LOW
+    3300048: //RootNode
+    3300050: x color 2
+    3300052: x color I
+    3300054: x grass
+    3300056: x grass.001
+    3300058: x kavics 1
+    3300060: x kavics 2
+    3300062: x nav beton
+    3300064: x nav road
+    3300066: RT HairP V01 T01 NoGrass HI
+    3300068: RT HairP V01 T01 NoGrass LOW
+    3300070: RT HairP V01 T01 NoGrass LOWII
+    3300072: RT HairP V01 NAV ColAsp C01-02
+    3300074: RT HairP V01 NAV ColAsp C03
+    3300076: RT HairP V01 NAV Conc
+    3300078: RT HairP V01 NAV Grass
+    3300080: RT HairP V01 NAV Gravel C01-02
+    3300082: RT HairP V01 NAV Gravel C03
+    3300084: RT HairP V01 NAV Road
+    3300086: RT HairP V01 NAV Grass IN
+    3300088: RT HairP V01 NAV Grass OUT
+    3300090: RT HairP V01 SR
+    4300000: RT HairP V01 T01 QRT SNAP
+    4300002: x grass.001
+    4300004: x grass
+    4300006: x color 2
+    4300008: x color I
+    4300010: x kavics 2
+    4300012: x kavics 1
+    4300014: x nav beton
+    4300016: x nav road
+    4300018: RT HairP V01 Rail 2A HI
+    4300020: RT HairP V01 Rail 1B LOW
+    4300022: RT HairP V01 KERB IN LOW
+    4300024: RT HairP V01 KERB OUT LOW
+    4300026: RT HairP V01 KERB OUT HI
+    4300028: RT HairP V01 T01 LOW
+    4300030: RT HairP V01 KERB IN HI
+    4300032: RT HairP V01 T01 HI
+    4300034: RT HairP V01 Fence Shared IN
+    4300036: RT HairP V01 Fence Shared OUT
+    4300038: RT HairP V01 Rail 2B HI
+    4300040: RT HairP V01 Fence IN HI
+    4300042: RT HairP V01 Rail 1A LOW
+    4300044: RT HairP V01 Rail 1B HI
+    4300046: RT HairP V01 Rail 1A HI
+    4300048: RT HairP V01 RubW OUT HI
+    4300050: RT HairP V01 RubW  IN LOW
+    4300052: RT HairP V01 RubW  IN HI
+    4300054: RT HairP V01 RubW OUT LOW
+    4300056: RT HairP V01 COLL OUT
+    4300058: RT HairP V01 SR OUT LOW
+    4300060: RT HairP V01 SR OUT HI
+    4300062: RT HairP V01 Fence OUT HI
+    4300064: RT HairP V01 COLL IN
+    4300066: RT HairP V01 T01 NoGrass HI
+    4300068: RT HairP V01 T01 NoGrass LOW
+    4300070: RT HairP V01 T01 NoGrass LOWII
+    4300072: RT HairP V01 NAV Grass
+    4300074: RT HairP V01 NAV ColAsp C03
+    4300076: RT HairP V01 NAV ColAsp C01-02
+    4300078: RT HairP V01 NAV Gravel C01-02
+    4300080: RT HairP V01 NAV Gravel C03
+    4300082: RT HairP V01 NAV Conc
+    4300084: RT HairP V01 NAV Road
+    4300086: RT HairP V01 NAV Grass IN
+    4300088: RT HairP V01 NAV Grass OUT
+    4300090: RT HairP V01 SR
+    4300092: RT HairP V01 T01 QLB SNAP
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

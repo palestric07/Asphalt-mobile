@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: a8e9ca7737ced044080b476dca3757b6
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RT TSS Finish
+    100004: RT TSS N01
+    100006: RT TSS N02
+    100008: RT TSS N03
+    100010: RT TSS N04
+    100012: RT TSS N05
+    100014: RT TSS N06
+    100016: RT TSS N07
+    100018: RT TSS N08
+    100020: RT TSS N09
+    100022: RT TSS N10
+    100024: RT TSS N11
+    100026: RT TSS N12
+    100028: RT TSS N13
+    100030: RT TSS N14
+    100032: RT TSS N15
+    100034: RT TSS N16
+    100036: RT TSS N17
+    100038: RT TSS N18
+    100040: RT TSS Start
+    400000: //RootNode
+    400002: RT TSS Finish
+    400004: RT TSS N01
+    400006: RT TSS N02
+    400008: RT TSS N03
+    400010: RT TSS N04
+    400012: RT TSS N05
+    400014: RT TSS N06
+    400016: RT TSS N07
+    400018: RT TSS N08
+    400020: RT TSS N09
+    400022: RT TSS N10
+    400024: RT TSS N11
+    400026: RT TSS N12
+    400028: RT TSS N13
+    400030: RT TSS N14
+    400032: RT TSS N15
+    400034: RT TSS N16
+    400036: RT TSS N17
+    400038: RT TSS N18
+    400040: RT TSS Start
+    2300000: RT TSS Finish
+    2300002: RT TSS N01
+    2300004: RT TSS N02
+    2300006: RT TSS N03
+    2300008: RT TSS N04
+    2300010: RT TSS N05
+    2300012: RT TSS N06
+    2300014: RT TSS N07
+    2300016: RT TSS N08
+    2300018: RT TSS N09
+    2300020: RT TSS N10
+    2300022: RT TSS N11
+    2300024: RT TSS N12
+    2300026: RT TSS N13
+    2300028: RT TSS N14
+    2300030: RT TSS N15
+    2300032: RT TSS N16
+    2300034: RT TSS N17
+    2300036: RT TSS N18
+    2300038: RT TSS Start
+    2300040: //RootNode
+    3300000: RT TSS Finish
+    3300002: RT TSS N01
+    3300004: RT TSS N02
+    3300006: RT TSS N03
+    3300008: RT TSS N04
+    3300010: RT TSS N05
+    3300012: RT TSS N06
+    3300014: RT TSS N07
+    3300016: RT TSS N08
+    3300018: RT TSS N09
+    3300020: RT TSS N10
+    3300022: RT TSS N11
+    3300024: RT TSS N12
+    3300026: RT TSS N13
+    3300028: RT TSS N14
+    3300030: RT TSS N15
+    3300032: RT TSS N16
+    3300034: RT TSS N17
+    3300036: RT TSS N18
+    3300038: RT TSS Start
+    3300040: //RootNode
+    4300000: RT TSS N18
+    4300002: RT TSS Start
+    4300004: RT TSS Finish
+    4300006: RT TSS N01
+    4300008: RT TSS N02
+    4300010: RT TSS N03
+    4300012: RT TSS N04
+    4300014: RT TSS N05
+    4300016: RT TSS N06
+    4300018: RT TSS N07
+    4300020: RT TSS N08
+    4300022: RT TSS N09
+    4300024: RT TSS N10
+    4300026: RT TSS N11
+    4300028: RT TSS N12
+    4300030: RT TSS N13
+    4300032: RT TSS N14
+    4300034: RT TSS N15
+    4300036: RT TSS N16
+    4300038: RT TSS N17
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

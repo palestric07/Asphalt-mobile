@@ -107,3 +107,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# File exceeding GitHub 100MB limit (cannot be pushed)
+Assets/prefabs/cars/Lamborghini_Aventador_LP700_4_2011.fbx
+Assets/prefabs/cars/Lamborghini_Aventador_LP700_4_2011.fbx.meta

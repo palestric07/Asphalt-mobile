@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: b6b3863a68401cb4097df127bfcb6259
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RT+ V01 T02 COLL
+    100004: RT+ V01 T02 Fence HI
+    100006: RT+ V01 T02 Fence Shared
+    100008: RT+ V01 T02 RailIn
+    100010: RT+ V01 T02 RailOut
+    100012: RT+ V01 T02 SR
+    400000: //RootNode
+    400002: RT+ V01 T02 COLL
+    400004: RT+ V01 T02 Fence HI
+    400006: RT+ V01 T02 Fence Shared
+    400008: RT+ V01 T02 RailIn
+    400010: RT+ V01 T02 RailOut
+    400012: RT+ V01 T02 SR
+    2300000: //RootNode
+    2300002: RT+ V01 T02 COLL
+    2300004: RT+ V01 T02 Fence HI
+    2300006: RT+ V01 T02 Fence Shared
+    2300008: RT+ V01 T02 RailIn
+    2300010: RT+ V01 T02 RailOut
+    2300012: RT+ V01 T02 SR
+    3300000: //RootNode
+    3300002: RT+ V01 T02 COLL
+    3300004: RT+ V01 T02 Fence HI
+    3300006: RT+ V01 T02 Fence Shared
+    3300008: RT+ V01 T02 RailIn
+    3300010: RT+ V01 T02 RailOut
+    3300012: RT+ V01 T02 SR
+    4300000: RT+ V01 T01 RubW001
+    4300002: RT+ V01 T01 RailOut001
+    4300004: RT+ V01 T01 RailIn001
+    4300006: RT+ V01 T01 Fence Shared001
+    4300008: RT+ V01 T01 COLL001
+    4300010: RT+ V01 T01 SR001
+    4300012: RT+ V01 T01 Fence HI001
+    4300014: RT+ V01 T02 COLL
+    4300016: RT+ V01 T02 RubW
+    4300018: RT+ V01 T02 Fence Shared
+    4300020: RT+ V01 T02 SR
+    4300022: RT+ V01 T02 Fence HI
+    4300024: RT+ V01 T02 RailIn
+    4300026: RT+ V01 T02 RailOut
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

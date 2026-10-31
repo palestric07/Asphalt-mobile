@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: a2476c49819b14f4aa93780e8bdebb47
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RT CHIC V01 T03 HI
+    100004: RT CHIC V01 T03 HI NoGrass
+    100006: RT CHIC V01 T03 LOW
+    100008: RT CHIC V01 T03 LOW NoGrass
+    100010: RT CHIC V01 T03 NAV ColAsp C01-C02
+    100012: RT CHIC V01 T03 NAV ColAsp C03
+    100014: RT CHIC V01 T03 NAV Grass
+    100016: RT CHIC V01 T03 NAV Grass.Conc
+    100018: RT CHIC V01 T03 NAV Gravel C01-C02
+    100020: RT CHIC V01 T03 NAV Gravel C03
+    400000: //RootNode
+    400002: RT CHIC V01 T03 HI
+    400004: RT CHIC V01 T03 HI NoGrass
+    400006: RT CHIC V01 T03 LOW
+    400008: RT CHIC V01 T03 LOW NoGrass
+    400010: RT CHIC V01 T03 NAV ColAsp C01-C02
+    400012: RT CHIC V01 T03 NAV ColAsp C03
+    400014: RT CHIC V01 T03 NAV Grass
+    400016: RT CHIC V01 T03 NAV Grass.Conc
+    400018: RT CHIC V01 T03 NAV Gravel C01-C02
+    400020: RT CHIC V01 T03 NAV Gravel C03
+    2300000: //RootNode
+    2300002: RT CHIC V01 T03 HI
+    2300004: RT CHIC V01 T03 HI NoGrass
+    2300006: RT CHIC V01 T03 LOW
+    2300008: RT CHIC V01 T03 LOW NoGrass
+    2300010: RT CHIC V01 T03 NAV ColAsp C01-C02
+    2300012: RT CHIC V01 T03 NAV ColAsp C03
+    2300014: RT CHIC V01 T03 NAV Grass
+    2300016: RT CHIC V01 T03 NAV Grass.Conc
+    2300018: RT CHIC V01 T03 NAV Gravel C01-C02
+    2300020: RT CHIC V01 T03 NAV Gravel C03
+    3300000: //RootNode
+    3300002: RT CHIC V01 T03 HI
+    3300004: RT CHIC V01 T03 HI NoGrass
+    3300006: RT CHIC V01 T03 LOW
+    3300008: RT CHIC V01 T03 LOW NoGrass
+    3300010: RT CHIC V01 T03 NAV ColAsp C01-C02
+    3300012: RT CHIC V01 T03 NAV ColAsp C03
+    3300014: RT CHIC V01 T03 NAV Grass
+    3300016: RT CHIC V01 T03 NAV Grass.Conc
+    3300018: RT CHIC V01 T03 NAV Gravel C01-C02
+    3300020: RT CHIC V01 T03 NAV Gravel C03
+    4300000: RT CHIC V01 T03 SNAP
+    4300002: RT CHIC V01 T03 HI
+    4300004: RT CHIC V01 T03 HI NoGrass
+    4300006: RT CHIC V01 T03 LOW
+    4300008: RT CHIC V01 T03 LOW NoGrass
+    4300010: RT CHIC V01 T03 NAV Grass.Conc
+    4300012: RT CHIC V01 T03 NAV Grass
+    4300014: RT CHIC V01 T03 NAV Gravel C03
+    4300016: RT CHIC V01 T03 NAV Gravel C01-C02
+    4300018: RT CHIC V01 T03 NAV ColAsp C01-C02
+    4300020: RT CHIC V01 T03 NAV ColAsp C03
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

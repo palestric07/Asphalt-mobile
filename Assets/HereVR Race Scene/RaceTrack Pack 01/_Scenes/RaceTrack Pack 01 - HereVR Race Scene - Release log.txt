@@ -1,0 +1,48 @@
+Release log
+
+0.9 
+
+- Original 'Beta' version
+
+1.01
+
+- Navmesh 'elements' has been added for making navmesh baking easy
+- Start/Finish signs + start numbers now has a separated version
+- 18 new billboards has been added (new basetype in 3 colors)
+- 'Chicane' module has been added in 4 subtypes (double size module)
+
+1.02 Nature EcoPack 01. has been added (worth $18 separately)
+
+Specs:
+
+ +20 editable Unity trees has been added
+ +10 editable Unity bushes has been added
+ +5 simple rocks has been added
+
+1.03 Skyscrapers MicroPack 01. has been added (worth $15 separately)
+
+Specs:
+
+ +15 skyscraper models (using a single textureatlas)
+ +4 hot air balloons (as a GIFT)
+ +1 Skybox
+
+1.04
+
+- 6 low-poly BG Mountains has been added
+- New AD holders has been added
+- Missing dust particle attached to Inventory
+- Layered texture sources has been added
+- Some separate seats has been added for tribunes
+- A new mobile plant stuff (group of trees AKA 'Smallforest' has been added)
+
+
+1.05
+
+- Hairpin turns has been added
+- Press 'Ignore' if Unity ask for texture/normal fixes (Unity ask for it unnecessary)
+
+1.06
+
+- Unity 5 version BETA
+If you find any problems, please let me know at herevr3d@gmail.com. Thanks.

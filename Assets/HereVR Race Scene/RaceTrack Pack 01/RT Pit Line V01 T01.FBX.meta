@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: dc8f32872472aa24e97f787d9e3fb3d4
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: RT Pit Line V01 T01
+    100002: //RootNode
+    100004: RT Pit Line V01 T01 COLL I
+    100006: RT Pit Line V01 T01 COLL II
+    100008: RT Pit Line V01 T01 Fence HI I
+    100010: RT Pit Line V01 T01 Fence Shared I
+    100012: RT Pit Line V01 T01 NoGrass
+    100014: RT Pit Line V01 T01 Rail IA
+    100016: RT Pit Line V01 T01 Rail IB
+    100018: RT Pit Line V01 T01 RubW I
+    100020: RT Pit Line V01 T01 SR I
+    100022: RT Pit Line V01 T01 SR II
+    100024: RT Pit Line V01 T01 NAV ColAsp
+    100026: RT Pit Line V01 T01 NAV Conc
+    100028: RT Pit Line V01 T01 NAV Grass
+    100030: RT Pit Line V01 T01 NAV PitAsp
+    100032: RT Pit Line V01 T01 NAV Road
+    400000: RT Pit Line V01 T01
+    400002: //RootNode
+    400004: RT Pit Line V01 T01 COLL I
+    400006: RT Pit Line V01 T01 COLL II
+    400008: RT Pit Line V01 T01 Fence HI I
+    400010: RT Pit Line V01 T01 Fence Shared I
+    400012: RT Pit Line V01 T01 NoGrass
+    400014: RT Pit Line V01 T01 Rail IA
+    400016: RT Pit Line V01 T01 Rail IB
+    400018: RT Pit Line V01 T01 RubW I
+    400020: RT Pit Line V01 T01 SR I
+    400022: RT Pit Line V01 T01 SR II
+    400024: RT Pit Line V01 T01 NAV ColAsp
+    400026: RT Pit Line V01 T01 NAV Conc
+    400028: RT Pit Line V01 T01 NAV Grass
+    400030: RT Pit Line V01 T01 NAV PitAsp
+    400032: RT Pit Line V01 T01 NAV Road
+    2300000: RT Pit Line V01 T01
+    2300002: //RootNode
+    2300004: RT Pit Line V01 T01 COLL I
+    2300006: RT Pit Line V01 T01 COLL II
+    2300008: RT Pit Line V01 T01 Fence HI I
+    2300010: RT Pit Line V01 T01 Fence Shared I
+    2300012: RT Pit Line V01 T01 NoGrass
+    2300014: RT Pit Line V01 T01 Rail IA
+    2300016: RT Pit Line V01 T01 Rail IB
+    2300018: RT Pit Line V01 T01 RubW I
+    2300020: RT Pit Line V01 T01 SR I
+    2300022: RT Pit Line V01 T01 SR II
+    2300024: RT Pit Line V01 T01 NAV ColAsp
+    2300026: RT Pit Line V01 T01 NAV Conc
+    2300028: RT Pit Line V01 T01 NAV Grass
+    2300030: RT Pit Line V01 T01 NAV PitAsp
+    2300032: RT Pit Line V01 T01 NAV Road
+    3300000: //RootNode
+    3300002: RT Pit Line V01 T01
+    3300004: RT Pit Line V01 T01 COLL I
+    3300006: RT Pit Line V01 T01 COLL II
+    3300008: RT Pit Line V01 T01 Fence HI I
+    3300010: RT Pit Line V01 T01 Fence Shared I
+    3300012: RT Pit Line V01 T01 NoGrass
+    3300014: RT Pit Line V01 T01 Rail IA
+    3300016: RT Pit Line V01 T01 Rail IB
+    3300018: RT Pit Line V01 T01 RubW I
+    3300020: RT Pit Line V01 T01 SR I
+    3300022: RT Pit Line V01 T01 SR II
+    3300024: RT Pit Line V01 T01 NAV ColAsp
+    3300026: RT Pit Line V01 T01 NAV Conc
+    3300028: RT Pit Line V01 T01 NAV Grass
+    3300030: RT Pit Line V01 T01 NAV PitAsp
+    3300032: RT Pit Line V01 T01 NAV Road
+    4300000: RT Pit Line V01 T01
+    4300002: RT Pit Line V01 T01 SNAP
+    4300004: RT Pit Line V01 T01 COLL I
+    4300006: RT Pit Line V01 T01 RubW I
+    4300008: RT Pit Line V01 T01 COLL II
+    4300010: RT Pit Line V01 T01 Fence Shared I
+    4300012: RT Pit Line V01 T01 Fence HI I
+    4300014: RT Pit Line V01 T01 Rail IB
+    4300016: RT Pit Line V01 T01 Rail IA
+    4300018: RT Pit Line V01 T01 SR I
+    4300020: RT Pit Line V01 T01 SR II
+    4300022: RT Pit Line V01 T01 NoGrass
+    4300024: Plane.1915
+    4300026: RT RU 90S HI - Serv Road.030
+    4300028: BezierCircle.336
+    4300030: xcxcvbn.001
+    4300032: RT Pit Line V01 T01 NAV Conc
+    4300034: RT Pit Line V01 T01 NAV Road
+    4300036: RT Pit Line V01 T01 NAV ColAsp
+    4300038: RT Pit Line V01 T01 NAV Grass
+    4300040: RT Pit Line V01 T01 NAV PitAsp
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
