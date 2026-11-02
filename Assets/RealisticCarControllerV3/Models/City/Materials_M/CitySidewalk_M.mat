@@ -13,9 +13,7 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _EMISSION
-  - _GLOSSINESS_FROM_BASE_ALPHA
   - _NORMALMAP
-  - _SPECGLOSSMAP
   m_InvalidKeywords: []
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
@@ -54,9 +52,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Texture: {fileID: 2800000, guid: 76bc3c3698abb7642a2769e1b6375526, type: 3}
+        m_Scale: {x: 3, y: 2}
+        m_Offset: {x: -1, y: -0.5}
     - _MetallicGlossMap:
         m_Texture: {fileID: 2800000, guid: f71eea72e0b98c843b8d6d40ea61e28f, type: 3}
         m_Scale: {x: 1, y: 1}
