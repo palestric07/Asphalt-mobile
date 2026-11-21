@@ -26,9 +26,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100000}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.51351327, y: 0.51351327, z: 0.51351327}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3653577377116422525}
@@ -1201,6 +1201,7 @@ GameObject:
   - component: {fileID: 1453426449331100979}
   - component: {fileID: 2921687524677613301}
   - component: {fileID: 2713205823935893456}
+  - component: {fileID: 8458305822524935294}
   m_Layer: 0
   m_Name: 'Brake Light '
   m_TagString: Player
@@ -1321,6 +1322,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &8458305822524935294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 91785090904719632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &490217334347331074
 GameObject:
   m_ObjectHideFlags: 0
@@ -1333,6 +1363,7 @@ GameObject:
   - component: {fileID: 696041607080772598}
   - component: {fileID: 614012495692902526}
   - component: {fileID: 6502024795494781720}
+  - component: {fileID: 5907239986077041830}
   m_Layer: 0
   m_Name: Head Light High Beam
   m_TagString: Player
@@ -1453,6 +1484,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &5907239986077041830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 490217334347331074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &886948807877706823
 GameObject:
   m_ObjectHideFlags: 0
@@ -1465,6 +1525,7 @@ GameObject:
   - component: {fileID: 2639328482850409578}
   - component: {fileID: 7072504910891677457}
   - component: {fileID: 567196299723503434}
+  - component: {fileID: 1509287474736502917}
   m_Layer: 0
   m_Name: Head Light Fog
   m_TagString: Player
@@ -1585,6 +1646,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &1509287474736502917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 886948807877706823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &1428152951511448910
 GameObject:
   m_ObjectHideFlags: 0
@@ -1791,6 +1881,7 @@ GameObject:
   - component: {fileID: 8803025715338405432}
   - component: {fileID: 3340837241199269489}
   - component: {fileID: 1844341510492795384}
+  - component: {fileID: 6108638497078883555}
   m_Layer: 0
   m_Name: Head Light High Beam (1)
   m_TagString: Player
@@ -1911,6 +2002,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &6108638497078883555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1806935334163783922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &1993069024495624812
 GameObject:
   m_ObjectHideFlags: 0
@@ -2045,6 +2165,7 @@ GameObject:
   - component: {fileID: 3444744488164674877}
   - component: {fileID: 7325047487179028388}
   - component: {fileID: 7114253844978873058}
+  - component: {fileID: 5398542672852505986}
   m_Layer: 0
   m_Name: Head Light Fog
   m_TagString: Player
@@ -2165,6 +2286,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &5398542672852505986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2250610424299881596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &2320946541389423881
 GameObject:
   m_ObjectHideFlags: 0
@@ -2177,6 +2327,7 @@ GameObject:
   - component: {fileID: 287670692998641635}
   - component: {fileID: 4667078984155979300}
   - component: {fileID: 3338555695577776881}
+  - component: {fileID: 3953694422886886079}
   m_Layer: 0
   m_Name: Head Light Low Beam
   m_TagString: Player
@@ -2297,6 +2448,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &3953694422886886079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2320946541389423881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &2510750523835390996
 GameObject:
   m_ObjectHideFlags: 0
@@ -2375,6 +2555,7 @@ GameObject:
   - component: {fileID: 6138421807310467127}
   - component: {fileID: 503856039665190911}
   - component: {fileID: 5996659212540734032}
+  - component: {fileID: 6506320121353084431}
   m_Layer: 0
   m_Name: ReverseLight
   m_TagString: Player
@@ -2495,6 +2676,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &6506320121353084431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3287327278024268582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &3609284473832736410
 GameObject:
   m_ObjectHideFlags: 0
@@ -2777,6 +2987,7 @@ GameObject:
   - component: {fileID: 510641607702156074}
   - component: {fileID: 4398046419934720561}
   - component: {fileID: 8326570505494704346}
+  - component: {fileID: 168747530020941913}
   m_Layer: 0
   m_Name: Park Light
   m_TagString: Player
@@ -2897,6 +3108,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &168747530020941913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4387272322970310152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &4508760114735327731
 GameObject:
   m_ObjectHideFlags: 0
@@ -2925,7 +3165,7 @@ Transform:
   m_GameObject: {fileID: 4508760114735327731}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.69204164, y: 0.8104507, z: 1.1956328}
+  m_LocalPosition: {x: -0.69204164, y: 0.8104507, z: 1.5958328}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2983,7 +3223,7 @@ ConfigurableJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 0, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 0
-  m_ConnectedAnchor: {x: -0.69204164, y: 0.8104507, z: 1.1956328}
+  m_ConnectedAnchor: {x: -0.69204164, y: 0.8104507, z: 1.5958328}
   m_SecondaryAxis: {x: 0, y: 0, z: 0}
   m_XMotion: 1
   m_YMotion: 1
@@ -3084,6 +3324,7 @@ GameObject:
   - component: {fileID: 1426466065224654575}
   - component: {fileID: 8520740472861868435}
   - component: {fileID: 8729653052370904798}
+  - component: {fileID: 593950992727573526}
   m_Layer: 0
   m_Name: Park Light (1)
   m_TagString: Player
@@ -3204,6 +3445,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &593950992727573526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4849514468564156245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &4910955096937014779
 GameObject:
   m_ObjectHideFlags: 0
@@ -3260,6 +3530,7 @@ GameObject:
   - component: {fileID: 7456884207767202935}
   - component: {fileID: 6146174455198183976}
   - component: {fileID: 8013490281531795441}
+  - component: {fileID: 1752749858247558615}
   m_Layer: 0
   m_Name: Head Light Low Beam
   m_TagString: Player
@@ -3380,6 +3651,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &1752749858247558615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4980774588808304562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &5132699712814199353
 GameObject:
   m_ObjectHideFlags: 0
@@ -3507,6 +3807,7 @@ GameObject:
   - component: {fileID: 7559386893335954714}
   - component: {fileID: 7934594630353690291}
   - component: {fileID: 4649033471436636688}
+  - component: {fileID: 578264179831006718}
   m_Layer: 0
   m_Name: Brake Light
   m_TagString: Player
@@ -3627,6 +3928,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &578264179831006718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5341565866787043076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &5542768247298976263
 GameObject:
   m_ObjectHideFlags: 0
@@ -3639,6 +3969,7 @@ GameObject:
   - component: {fileID: 2271935948393388432}
   - component: {fileID: 4438546370487847956}
   - component: {fileID: 8642105320016403316}
+  - component: {fileID: 6243036422243781210}
   m_Layer: 0
   m_Name: Indicator Light
   m_TagString: Player
@@ -3759,6 +4090,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &6243036422243781210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5542768247298976263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &5763597684588986326
 GameObject:
   m_ObjectHideFlags: 0
@@ -13281,6 +13641,7 @@ GameObject:
   - component: {fileID: 5334571378257626120}
   - component: {fileID: 8780667813636600945}
   - component: {fileID: 5306167570645525810}
+  - component: {fileID: 711026670976941999}
   m_Layer: 0
   m_Name: Indicator Light
   m_TagString: Player
@@ -13401,6 +13762,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &711026670976941999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6189765975859902040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &6267109865049703249
 GameObject:
   m_ObjectHideFlags: 0
@@ -13462,6 +13852,7 @@ GameObject:
   - component: {fileID: 322863542326716182}
   - component: {fileID: 8745211809748096248}
   - component: {fileID: 5864902355823786739}
+  - component: {fileID: 2497364544007417664}
   m_Layer: 0
   m_Name: Indicator Light
   m_TagString: Player
@@ -13582,6 +13973,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &2497364544007417664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6679551610360898484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &7577796007176783192
 GameObject:
   m_ObjectHideFlags: 0
@@ -13594,6 +14014,7 @@ GameObject:
   - component: {fileID: 2999110234731930928}
   - component: {fileID: 13906832538328086}
   - component: {fileID: 1978072471422187221}
+  - component: {fileID: 4343296402139419565}
   m_Layer: 0
   m_Name: Indicator Light
   m_TagString: Player
@@ -13714,6 +14135,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &4343296402139419565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7577796007176783192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &8028673394798416394
 GameObject:
   m_ObjectHideFlags: 0
@@ -13726,6 +14176,7 @@ GameObject:
   - component: {fileID: 3218530558936614240}
   - component: {fileID: 2892685431277545303}
   - component: {fileID: 2508251010798193469}
+  - component: {fileID: 4522755689959111566}
   m_Layer: 0
   m_Name: ReverseLight
   m_TagString: Player
@@ -13846,6 +14297,35 @@ LensFlare:
     serializedVersion: 2
     m_Bits: 262
   m_Directional: 0
+--- !u!114 &4522755689959111566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8028673394798416394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &8880276031776035955
 GameObject:
   m_ObjectHideFlags: 0

@@ -126,7 +126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3805122522603443617, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
       propertyPath: maxspeed
-      value: 320
+      value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 3805122522603443617, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
       propertyPath: useTurbo
@@ -138,7 +138,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3805122522603443617, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
       propertyPath: downForce
-      value: 20
+      value: 27
       objectReference: {fileID: 0}
     - target: {fileID: 3805122522603443617, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
       propertyPath: ESPStrength
@@ -150,7 +150,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3805122522603443617, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
       propertyPath: brakeTorque
-      value: 2500
+      value: 2800
       objectReference: {fileID: 0}
     - target: {fileID: 3805122522603443617, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
       propertyPath: orgMaxSpeed
@@ -166,7 +166,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3805122522603443617, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
       propertyPath: engineTorque
-      value: 231
+      value: 300
       objectReference: {fileID: 0}
     - target: {fileID: 3805122522603443617, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
       propertyPath: clutchInertia
